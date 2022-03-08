@@ -4,7 +4,7 @@
 
 ## Description
 
-#### _A small web application designed to open modal windows with a click event, and close modal windows with the escap key, pressing th close button, as well as pressing outside of the modal window, _
+#### A small web application designed to open modal windows with a click event, and close modal windows with the escap key, pressing th close button, as well as pressing outside of the modal windows.
 
 ## Technologies Used
 
